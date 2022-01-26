@@ -31,3 +31,4 @@ def follow_bonjour_monde(client)
     client.follow("#{tweet.user.screen_name}")
   end
 end
+
